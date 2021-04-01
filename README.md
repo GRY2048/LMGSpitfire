@@ -2,7 +2,7 @@
 (WIP)
 What's not completed? 
 Third Person,
-Power Armor anims, some sights, some barrels,
+Power Armor anims, some sights, some barrels, lot of skins,
 and Many more.
 
 Requires Tactical Reload by BWONES:https://www.nexusmods.com/fallout4/mods/49444
