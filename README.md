@@ -1,6 +1,6 @@
 # LMGSpitfire
 WIP
-What's not completed?
--Third Person
--Power Armor
--Many more.
+What's not completed? 
+Third Person,
+Power Armor,
+and Many more.
