@@ -1,6 +1,6 @@
 # LMGSpitfire
-WIP
+(WIP)
 What's not completed? 
 Third Person,
-Power Armor,
+Power Armor anims,
 and Many more.
